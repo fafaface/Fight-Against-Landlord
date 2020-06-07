@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict> 
+    <key>name_list</key>  
+    <array>  
+        <string>赤座灯里</string>  
+        <string>岁纳京子</string>  
+        <string>船见结衣</string>  
+	<string>吉川千夏</string>  
+        <string>松本理世</string>  
+        <string>杉浦绫乃</string> 
+	<string>池田千岁</string>  
+        <string>大室樱子</string>  
+        <string>古谷向日葵</string> 
+        <string>池田千鹤</string>  
+        <string>赤座茜</string>  
+        <string>吉川友子</string> 
+        <string>古谷枫</string>  
+        <string>大室抚子</string>  
+        <string>大室花子</string> 
+    </array>  
+    <key>name</key> 
+    <string>昵称</string> 
+</dict>

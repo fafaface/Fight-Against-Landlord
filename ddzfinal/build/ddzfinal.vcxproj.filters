@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\yuehan lian\Desktop\ddzfinal\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\yuehan lian\Desktop\ddzfinal\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameOverScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MainMenuScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Player.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Poker.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Common.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Array.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BottomCardZone.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\yuehan lian\Desktop\ddzfinal\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yuehan lian\Desktop\ddzfinal\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yuehan lian\Desktop\ddzfinal\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yuehan lian\Desktop\ddzfinal\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yuehan lian\Desktop\ddzfinal\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yuehan lian\Desktop\ddzfinal\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yuehan lian\Desktop\ddzfinal\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameOverScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MainMenuScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Common.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Player.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Poker.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Array.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BottomCardZone.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yuehan lian\Desktop\ddzfinal\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\yuehan lian\Desktop\ddzfinal\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{16906256-37C4-37DF-B402-86633D8A2C72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{1A84D7E6-3C88-33AF-951D-2E2F6B8B7B73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{E805A601-80FA-3FBB-9783-05B372363121}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A658C7A4-594B-33A3-8A33-466DC34C6885}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{E5A02337-0C0D-3284-9E95-ABFBE961E9B9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{341F0536-A7B8-3FCB-9758-FF68EEA7A9C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\head">
+      <UniqueIdentifier>{5e3c3c0b-86cd-4b8a-87d0-ff8754d09535}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\gameover">
+      <UniqueIdentifier>{30bc04bc-1506-4906-89c4-5944b6ceff3c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Resources\MenuPic.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\GameOverPic.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\GameBackgroundPic.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\bottomCardZone.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\buchu.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\ddzsingle_tableopr.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\flag_lord.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\icon_dou.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\item_begin.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\item_buchu.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\item_buchu_d.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\item_bujiao.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\item_buqiang.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\item_chupai.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\item_chupai_d.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\item_qiangdizhu.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\poker_b.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\head\vtouxiang_01.png">
+      <Filter>Resources\head</Filter>
+    </Image>
+    <Image Include="..\Resources\head\vtouxiang_02.png">
+      <Filter>Resources\head</Filter>
+    </Image>
+    <Image Include="..\Resources\head\vtouxiang_03.png">
+      <Filter>Resources\head</Filter>
+    </Image>
+    <Image Include="..\Resources\head\vtouxiang_04.png">
+      <Filter>Resources\head</Filter>
+    </Image>
+    <Image Include="..\Resources\head\vtouxiang_05.png">
+      <Filter>Resources\head</Filter>
+    </Image>
+    <Image Include="..\Resources\head\vtouxiang_06.png">
+      <Filter>Resources\head</Filter>
+    </Image>
+    <Image Include="..\Resources\gameover\nt_result_base.png">
+      <Filter>Resources\gameover</Filter>
+    </Image>
+    <Image Include="..\Resources\avator_bg.png">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Resources\poker_b.plist">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="..\Resources\gameover\nt_result_base.plist">
+      <Filter>Resources\gameover</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\Resources\strings.xml">
+      <Filter>Resources</Filter>
+    </Xml>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\Resources\fonts\FZCuYuan-M03S.ttf">
+      <Filter>Resources\fonts</Filter>
+    </Font>
+  </ItemGroup>
+</Project>
